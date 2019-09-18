@@ -5,8 +5,6 @@ const Donate = use('App/Models/Donate')
 
 class DonateController {
   async index ({ response, auth }) {
-    let donatesRaw
-
     const user = await auth.getUser()
 
     const donatesPrepare = Donate
