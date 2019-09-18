@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Jogo de panela",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Jogo de faca",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Faqueiro (Colheres, Garfos, facas)",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Aparelho de jantar",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Jogo de copo",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Jogo de prato",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Espremedor de alho",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Jarra",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Travessa/Assadeira",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Saleiro",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Pano de prato",
+    "category": "Cozinha"
+  },
+  {
+    "name": "jogo de tapete",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Luvas",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Tábua de cortar carne",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Potes de plático",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Escorredor de prato",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Escorredor de macarrão",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Escorredor de arroz",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Açucareiro",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Bacia de plástico",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Frigideira",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Panela de pressão",
+    "category": "Cozinha"
+  },
+  {
+    "name": "Liquidificador",
+    "category": "Cozinha"
+  },
+
+
+  {
+    "name": "jogo de tapete",
+    "category": "Banheiro"
+  },
+  {
+    "name": "Jogo de toalha (banho)",
+    "category": "Banheiro"
+  },
+
+
+  {
+    "name": "Jogo de lençol (Casal)",
+    "category": "Quarto"
+  },
+  {
+    "name": "Colcha",
+    "category": "Quarto"
+  },
+  {
+    "name": "Edredom",
+    "category": "Quarto"
+  },
+  {
+    "name": "",
+    "category": ""
+  }
+]
